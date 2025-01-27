@@ -34,11 +34,3 @@ The model is evaluated on the **AUC-ROC** score:
 - **Private Score:** 0.630729  
 
 A successful submission should predict the probability of an essay being generated (`1` for AI, `0` for human) for each essay in the test set.
-
-### Submission Format:
-```csv
-id,generated
-0000aaaa,0.1
-1111bbbb,0.9
-2222cccc,0.4
-...
