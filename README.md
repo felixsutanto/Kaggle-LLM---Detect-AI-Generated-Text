@@ -53,10 +53,3 @@ pip install pandas numpy scikit-learn nltk
 2. Open `llm-detect-ai-generated-text.ipynb` in Jupyter Notebook or Google Colab.
 3. Run all cells to train the model and evaluate performance.
 4. To generate submission file, open and run `llm-detect-ai-generated-text-submission.ipynb`.
-
-```
-
----
-
-Let me know if you'd like me to add a preview of the model performance (e.g., confusion matrix or ROC curve) or auto-generate `requirements.txt` based on your notebook!
-```
